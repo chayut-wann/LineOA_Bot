@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "software-park-th",
+  "private_key_id": "f3c22ea9bb3b852897bd8dd9655cb4da6e005166",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVYSI+VxZzhxoE\nJV1BN6fXyTx+WburKKeqr9wm7EqHujdsWrSlh+8/aQF+tSvK/GqUJ8FhWq4Fz1gz\n2EZMcyuZpQoNxDCAtvK97Rx0PYdMmIRQwBPjk8ctEUmhfZAPCGvDiumblImrlCRZ\n9OM1V/vUJpFURDN2lCCbxN5wPIVaEkpkBaAjLasw5OnlQ9CrCMTWLP7074fQuwp6\nPD2dPMNGlbAqKI/dxkYT/6ciE4VJfkz5L7GAobdH0nm4C9jimGKL/L4s/wa5nNup\nm7tkf5uI7XZobjWsfgGIXoX/hJw+2hHRCIQQnfG8mVrrCW80sNqVD4Hm4YLdTcnQ\nxnnZpnADAgMBAAECggEAJWSu00cuphXUQ+RsjzZU7DYCUCi7S1G+gwJJzG6LC6Xo\nWNXt8Z/xGoD5MFQ+1a3RKiw3gtzVwjuQu02w71NHP0tqlF6fu6DQbA3OeSSr2Vc2\njBZBBE+KZPQ2Z9gMN08m1sjPyLPqsIpBfUlJlSFkt0s+RwdZkJ3s+cFS42qrAQxA\nLkbrXVywxKZXOLTCwNwz6cHPs2av9aAfdmoDHCSl/nOwzqm1II2Utak/8AsGi//y\nL5grgo4JQTKuKHPIS81GrjhZWZo3KAO40lmUWuXCoi69yIEAnq8fRLuY6+F5bSdO\ngnrZi8LU73JYXJqkNXPB8K+bWe8m7TVLCDl4FJp0BQKBgQDD6la+Y9lHCUDvsmET\nyv1IJoFaMdQL4ZzEz7aU6YxAMafKOqnMlWzysn8rp77m4hak/mHgWU/d821j4vW5\nY1E5BECHRhgPN/z4hRGCyzhfNd+IQcm/BLYrrQpbngUHZFsRj4EVXwx+3Z2+KPma\nlud0cFdtdQokjSPKTbwVpPV6RQKBgQDDMSzW3dvqG0extwxpCbmpFOq7vIojUaLY\nxvQ1d8eaxpF78a/3l7vTPZS2SWczzR2EJK5TULHD3qrk9PmmEbusdcQh9iGWxzMA\nYG5/F7BO5wq3XhCzzH6Iq9an7Wj/NkE+WYXvF/2HxtiZSW5XnWepaFksLbQ+q1p8\nQw/hJG5JpwKBgA5uBSOSwR8dTF4bOlE14z/cLizRfLe/T0ejsOP4666SubQIbBc4\nbkTV5s31Vfc1ccuHPPhEO8CyPD1eKxETgpj7ejE8dWsxiX1Yd7i1dRp2Iler2Msr\n8qr23MtwsRghSR/a/Pvw+z+g3QxzgibjtHp8B8R1GWEl0BwHa7IAa2AtAoGAY+QP\noWpqt/T8DMuzszGB7TDCLA+B1i9aGnw+z/obkW7bV0XJmvjw61sRdvQ7t3vaBh1L\nhWG/h5C1fnSMKlva4phmJkcyy1noFOJEyg/Sb563kj22aH1XqBPgx5Gs8SbP3tur\nuj9ZxRmTEWdN69KnEUBQmlZNbuD8bqlXQA4HzvMCgYBCbnDFN+ECUbncdRNTVJNx\n+wA21/2WHiNdRUjCQ/st35GcvbeOgBzXVDPeBJ4YvfKesBgF3unS3S90yS2le3LZ\nob3wNHtyRWfGu3hbdbIq87eRK2LEWvgIm+Ef8708wnxcN21j6wOOqY7YOZffjeen\n8Yxu+by6pGl2p93622anTw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "line-oa-swp@software-park-th.iam.gserviceaccount.com",
+  "client_id": "100056926441145617715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/line-oa-swp%40software-park-th.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

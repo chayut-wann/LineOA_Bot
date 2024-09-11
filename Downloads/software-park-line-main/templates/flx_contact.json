@@ -1,0 +1,58 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "hero": {
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1596524430615-b46475ddff6e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGFjdCUyMHVzfGVufDB8fDB8fHww",
+    "size": "full",
+    "aspectRatio": "1.5:1",
+    "aspectMode": "fit"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "งานบริหารพื้นที่ และสนับสนุนธุรกิจ",
+        "weight": "bold",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "โทร. 02-5839992",
+        "margin": "md",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "-  เช่าพื้นที่ทำกิจกรรม  ต่อ  81411",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "-  เช่าห้องอบรมคอมพิวเตอร์  ห้องประชุม ",
+        "weight": "regular",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "  ต่อ  81412",
+        "weight": "regular",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "-  เช่าพื้นที่สำนักงาน  ต่อ  81414",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "-  ห้องอุปกรณ์ เครื่องมือ  ต่อ  81410",
+        "contents": []
+      }
+    ]
+  }
+}

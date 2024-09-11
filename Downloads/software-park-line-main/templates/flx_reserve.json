@@ -1,0 +1,72 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "direction": "ltr",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เลือกบริการที่ท่านสนใจ",
+        "align": "center",
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "xs",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ห้องอบรมคอมพิวเตอร์",
+          "text": "ห้องอบรมคอมพิวเตอร์"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ห้องอบรมสัมมนา",
+          "text": "ห้องอบรมสัมมนา"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ห้องประชุม",
+          "text": "ห้องประชุม"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "เช่าพื้นที่ทำกิจกรรม",
+          "text": "เช่าพื้นที่ทำกิจกรรม"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "เช่าพื้นที่สำนักงาน",
+          "text": "เช่าพื้นที่สำนักงาน"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "อุปกรณ์เครื่องมือ",
+          "text": "อุปกรณ์เครื่องมือ"
+        }
+      }
+    ]
+  }
+}

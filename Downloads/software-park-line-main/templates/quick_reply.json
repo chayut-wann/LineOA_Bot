@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "action",
+      "imageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJzbDR4NGxmNWt1dTFyZ3d4MGVncWJmbWpuZnk0bzJ0eGxibXVyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y1T0zY1gR5qe5O/giphy.gif",
+      "action": {
+        "type": "message",
+        "label": "Course",
+        "text": "course"
+      }
+    },
+    {
+      "type": "action",
+      "imageUrl": "https://cdn-icons-png.freepik.com/512/10782/10782405.png",
+      "action": {
+        "type": "message",
+        "label": "จองห้อง",
+        "text": "service"
+      }
+    },
+    {
+      "type": "action",
+      "imageUrl": "https://healthcareacademy.com/wp-content/uploads/2023/04/HCA-contact-animated-icon.gif",
+      "action": {
+        "type": "uri",
+        "label": "ติดต่อเรา",
+        "uri": "https://www.swpark.or.th/contact-us"
+      }
+    }
+  ]
+}

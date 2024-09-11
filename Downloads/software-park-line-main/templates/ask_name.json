@@ -1,0 +1,37 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข้อมูลการจอง",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center",
+        "margin": "xs",
+        "contents": []
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "กรุณาระบุชื่อของท่าน",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "( คำนำหน้าชื่อ ตามด้วยชื่อจริง )",
+        "align": "center",
+        "contents": []
+      }
+    ]
+  }
+}

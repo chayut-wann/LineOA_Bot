@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "action",
+      "imageUrl": "https://cdn.dribbble.com/users/193802/screenshots/3090066/___.gif",
+      "action": {
+        "type": "uri",
+        "label": "ราคาค่าบริการ",
+        "uri": "https://www.swpark.or.th/"
+      }
+    },
+    {
+      "type": "action",
+      "imageUrl": "https://cdn-icons-png.freepik.com/512/10782/10782405.png",
+      "action": {
+        "type": "message",
+        "label": "จองใช้บริการ",
+        "text": "reserve"
+      }
+    },
+    {
+      "type": "action",
+      "imageUrl": "https://healthcareacademy.com/wp-content/uploads/2023/04/HCA-contact-animated-icon.gif",
+      "action": {
+        "type": "message",
+        "label": "ติดต่อเรา",
+        "text": "contactus"
+      }
+    }
+  ]
+}

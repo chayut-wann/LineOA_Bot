@@ -1,0 +1,52 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข้อมูลการจอง",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center",
+        "margin": "xs",
+        "contents": []
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ต้องการรับอาหารว่างหรือไม่ ?",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "รับ",
+          "text": "รับ"
+        },
+        "color": "#7CFC00FF",
+        "style": "secondary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ไม่รับ",
+          "text": "ไม่รับ"
+        },
+        "color": "#FF0000",
+        "style": "primary"
+      }
+    ]
+  }
+}

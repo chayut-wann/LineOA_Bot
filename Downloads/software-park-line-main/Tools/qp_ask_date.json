@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "type": "action",
+      "imageUrl": "https://icla.org/wp-content/uploads/2018/02/blue-calendar-icon.png",
+      "action": {
+        "type": "datetimepicker",
+        "label": "เลือกวันที่ !",
+        "data": "action=selectDateTool",
+        "mode": "date",
+        "initial": "2024-01-01",
+        "max": "2030-12-31",
+        "min": "2024-01-01"
+      }
+    }
+  ]
+}

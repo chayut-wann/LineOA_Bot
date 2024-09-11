@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "type": "action",
+      "imageUrl": "https://navnav.co/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--75be92a962ddd448f932481c9b2330999b11ad46/2019-12-23%2021.44.05.gif",
+      "action": {
+        "type": "message",
+        "label": "Menu",
+        "text": "menu"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข้อมูลการจอง",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center",
+        "margin": "xs",
+        "contents": []
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "กรุณาระบุ ชื่ออุปกรณ์ ที่ต้องการ",
+        "align": "center",
+        "contents": []
+      }
+    ]
+  }
+}

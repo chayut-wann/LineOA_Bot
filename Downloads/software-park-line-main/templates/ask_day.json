@@ -1,0 +1,46 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข้อมูลการจอง",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center",
+        "margin": "xs",
+        "contents": []
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ครึ่งวัน",
+          "text": "ครึ่งวัน"
+        },
+        "color": "#7CFC00FF",
+        "style": "secondary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "เต็มวัน",
+          "text": "เต็มวัน"
+        },
+        "color": "#7CFC00",
+        "style": "secondary"
+      }
+    ]
+  }
+}
